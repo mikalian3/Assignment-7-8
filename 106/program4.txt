@@ -1,0 +1,10 @@
+Phone
+5
+900
+Table
+10
+50
+Notebook
+30
+2
+
